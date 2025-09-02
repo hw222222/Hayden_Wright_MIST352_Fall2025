@@ -1,0 +1,15 @@
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/Practice3_Grades/Practice3Grades/bin/Debug/net9.0/Practice3Grades
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/Practice3_Grades/Practice3Grades/bin/Debug/net9.0/Practice3Grades.deps.json
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/Practice3_Grades/Practice3Grades/bin/Debug/net9.0/Practice3Grades.runtimeconfig.json
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/Practice3_Grades/Practice3Grades/bin/Debug/net9.0/Practice3Grades.dll
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/Practice3_Grades/Practice3Grades/bin/Debug/net9.0/Practice3Grades.pdb
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/Practice3_Grades/Practice3Grades/obj/Debug/net9.0/Practice3Grades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/Practice3_Grades/Practice3Grades/obj/Debug/net9.0/Practice3Grades.AssemblyInfoInputs.cache
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/Practice3_Grades/Practice3Grades/obj/Debug/net9.0/Practice3Grades.AssemblyInfo.cs
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/Practice3_Grades/Practice3Grades/obj/Debug/net9.0/Practice3Grades.csproj.CoreCompileInputs.cache
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/Practice3_Grades/Practice3Grades/obj/Debug/net9.0/Practice3Grades.sourcelink.json
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/Practice3_Grades/Practice3Grades/obj/Debug/net9.0/Practice3Grades.dll
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/Practice3_Grades/Practice3Grades/obj/Debug/net9.0/refint/Practice3Grades.dll
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/Practice3_Grades/Practice3Grades/obj/Debug/net9.0/Practice3Grades.pdb
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/Practice3_Grades/Practice3Grades/obj/Debug/net9.0/Practice3Grades.genruntimeconfig.cache
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/Practice3_Grades/Practice3Grades/obj/Debug/net9.0/ref/Practice3Grades.dll

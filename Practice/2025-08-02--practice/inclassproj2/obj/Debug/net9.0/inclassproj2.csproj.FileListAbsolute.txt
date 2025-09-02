@@ -1,0 +1,15 @@
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/2025-08-02--practice/inclassproj2/bin/Debug/net9.0/inclassproj2
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/2025-08-02--practice/inclassproj2/bin/Debug/net9.0/inclassproj2.deps.json
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/2025-08-02--practice/inclassproj2/bin/Debug/net9.0/inclassproj2.runtimeconfig.json
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/2025-08-02--practice/inclassproj2/bin/Debug/net9.0/inclassproj2.dll
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/2025-08-02--practice/inclassproj2/bin/Debug/net9.0/inclassproj2.pdb
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/2025-08-02--practice/inclassproj2/obj/Debug/net9.0/inclassproj2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/2025-08-02--practice/inclassproj2/obj/Debug/net9.0/inclassproj2.AssemblyInfoInputs.cache
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/2025-08-02--practice/inclassproj2/obj/Debug/net9.0/inclassproj2.AssemblyInfo.cs
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/2025-08-02--practice/inclassproj2/obj/Debug/net9.0/inclassproj2.csproj.CoreCompileInputs.cache
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/2025-08-02--practice/inclassproj2/obj/Debug/net9.0/inclassproj2.sourcelink.json
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/2025-08-02--practice/inclassproj2/obj/Debug/net9.0/inclassproj2.dll
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/2025-08-02--practice/inclassproj2/obj/Debug/net9.0/refint/inclassproj2.dll
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/2025-08-02--practice/inclassproj2/obj/Debug/net9.0/inclassproj2.pdb
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/2025-08-02--practice/inclassproj2/obj/Debug/net9.0/inclassproj2.genruntimeconfig.cache
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Practice/2025-08-02--practice/inclassproj2/obj/Debug/net9.0/ref/inclassproj2.dll
