@@ -1,7 +1,7 @@
 ﻿// Author: Hayden Wright
 // Class: MIST 352-Fall2025
 // HW #1
-// Program collects 4 products and prints them in a table
+// This program collects 4 products with 5 variables, fixes formatting issues in capitalization, and prints them in an organized table
 
 using System;
 
