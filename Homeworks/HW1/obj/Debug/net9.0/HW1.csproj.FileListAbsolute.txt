@@ -1,0 +1,15 @@
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Homeworks/HW1/bin/Debug/net9.0/HW1
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Homeworks/HW1/bin/Debug/net9.0/HW1.deps.json
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Homeworks/HW1/bin/Debug/net9.0/HW1.runtimeconfig.json
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Homeworks/HW1/bin/Debug/net9.0/HW1.dll
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Homeworks/HW1/bin/Debug/net9.0/HW1.pdb
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Homeworks/HW1/obj/Debug/net9.0/HW1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Homeworks/HW1/obj/Debug/net9.0/HW1.AssemblyInfoInputs.cache
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Homeworks/HW1/obj/Debug/net9.0/HW1.AssemblyInfo.cs
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Homeworks/HW1/obj/Debug/net9.0/HW1.csproj.CoreCompileInputs.cache
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Homeworks/HW1/obj/Debug/net9.0/HW1.sourcelink.json
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Homeworks/HW1/obj/Debug/net9.0/HW1.dll
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Homeworks/HW1/obj/Debug/net9.0/refint/HW1.dll
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Homeworks/HW1/obj/Debug/net9.0/HW1.pdb
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Homeworks/HW1/obj/Debug/net9.0/HW1.genruntimeconfig.cache
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/Homeworks/HW1/obj/Debug/net9.0/ref/HW1.dll
