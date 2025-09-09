@@ -27,7 +27,7 @@ class Program
         string line2 = "Today's quest starts in " + favoritePlace + ".";
         string line3 = "Lucky number: " + luckyNumber;
 
-        // nickname sectionJoe
+        // nickname section
         string nick = "";
         if (heroName.Length > 0) nick += heroName[0];
         if (heroName.Length > 1) nick += heroName[1];
