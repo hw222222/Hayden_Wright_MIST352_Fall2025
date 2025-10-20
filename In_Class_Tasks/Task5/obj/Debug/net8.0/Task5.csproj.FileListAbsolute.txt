@@ -1,0 +1,15 @@
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task5/bin/Debug/net8.0/Task5
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task5/bin/Debug/net8.0/Task5.deps.json
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task5/bin/Debug/net8.0/Task5.runtimeconfig.json
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task5/bin/Debug/net8.0/Task5.dll
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task5/bin/Debug/net8.0/Task5.pdb
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task5/obj/Debug/net8.0/Task5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task5/obj/Debug/net8.0/Task5.AssemblyInfoInputs.cache
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task5/obj/Debug/net8.0/Task5.AssemblyInfo.cs
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task5/obj/Debug/net8.0/Task5.csproj.CoreCompileInputs.cache
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task5/obj/Debug/net8.0/Task5.sourcelink.json
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task5/obj/Debug/net8.0/Task5.dll
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task5/obj/Debug/net8.0/refint/Task5.dll
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task5/obj/Debug/net8.0/Task5.pdb
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task5/obj/Debug/net8.0/Task5.genruntimeconfig.cache
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task5/obj/Debug/net8.0/ref/Task5.dll
