@@ -1,0 +1,15 @@
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task6_GPT/bin/Debug/net9.0/Task6_GPT
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task6_GPT/bin/Debug/net9.0/Task6_GPT.deps.json
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task6_GPT/bin/Debug/net9.0/Task6_GPT.runtimeconfig.json
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task6_GPT/bin/Debug/net9.0/Task6_GPT.dll
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task6_GPT/bin/Debug/net9.0/Task6_GPT.pdb
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task6_GPT/obj/Debug/net9.0/Task6_GPT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task6_GPT/obj/Debug/net9.0/Task6_GPT.AssemblyInfoInputs.cache
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task6_GPT/obj/Debug/net9.0/Task6_GPT.AssemblyInfo.cs
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task6_GPT/obj/Debug/net9.0/Task6_GPT.csproj.CoreCompileInputs.cache
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task6_GPT/obj/Debug/net9.0/Task6_GPT.sourcelink.json
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task6_GPT/obj/Debug/net9.0/Task6_GPT.dll
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task6_GPT/obj/Debug/net9.0/refint/Task6_GPT.dll
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task6_GPT/obj/Debug/net9.0/Task6_GPT.pdb
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task6_GPT/obj/Debug/net9.0/Task6_GPT.genruntimeconfig.cache
+/Users/haydenwright/Documents/MIST352_Fall25/Hayden_Wright_MIST352_Fall2025/In_Class_Tasks/Task6_GPT/obj/Debug/net9.0/ref/Task6_GPT.dll
